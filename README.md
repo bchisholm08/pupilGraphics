@@ -1,2 +1,2 @@
 # pupilGraphics
-Repository for a 3-D representation of pupillometry data over time 
+Repository for a 3-D representation of pupillometry data.
